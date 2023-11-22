@@ -1,16 +1,8 @@
-# flutter_choosing_date_and_time_example
+Flutter'da tarih ve saat seçme örneği
 
-A new Flutter project.
+Flutter date and time selection example
 
-## Getting Started
+![Ekran görüntüsü 2023-11-22 203333](https://github.com/dousoftware/flutter_date_time_selection_example/assets/60797535/730c0435-e24d-4311-9226-4721ad8755a6)
+![Ekran görüntüsü 2023-11-22 205643](https://github.com/dousoftware/flutter_date_time_selection_example/assets/60797535/3f89ac30-4046-496b-afd6-c146a8538248)
+![Ekran görüntüsü 2023-11-22 213013](https://github.com/dousoftware/flutter_date_time_selection_example/assets/60797535/fefdeda7-c939-4e60-b9cf-54a3c6ef7fdb)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
